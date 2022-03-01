@@ -1,0 +1,89 @@
+id: PDF214891
+initial_creation_type: input
+source_metadata:
+  title: Bhaiṣajyagurupūrvapraṇidhānasūtra
+  language: bo
+  volumes:
+    a92b3ee1a2354e65bc1cf9a2b7e60d51:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: WA07A6008
+    700165b1685b42489001637f15e5ba2a:
+      title: §0-4
+      base_file: §0-4.txt
+      work_id: W8407E9F6
+    80ca6259358943609a3edaf392f0f6cf:
+      title: §10
+      base_file: §10.txt
+      work_id: W12260115
+    9a1b34c667ae46b1bf39e1f9a2fc6097:
+      title: §11-12
+      base_file: §11-12.txt
+      work_id: W42E9B2A0
+    fd92688aea78445d9a199777f8a3b76f:
+      title: §13
+      base_file: §13.txt
+      work_id: WC8DA1ABC
+    d365a9b3a7e0406b8bdef8aa384e9a67:
+      title: §14
+      base_file: §14.txt
+      work_id: W0252B848
+    7e5a2a53b10d45629e1c14d984b497a5:
+      title: §15
+      base_file: §15.txt
+      work_id: WDDDC26B7
+    65b0bb7b40f44425ab2dc44ba1d12ed1:
+      title: §16
+      base_file: §16.txt
+      work_id: WB030C113
+    111095ab04424b15974ca69c8d1d2533:
+      title: §17
+      base_file: §17.txt
+      work_id: WB0EBF85E
+    e5db344c14194dcb86544beb862dcca3:
+      title: §18
+      base_file: §18.txt
+      work_id: WDE0A1EF7
+    bae3991f0e9b4279af8bd40a36f66ef3:
+      title: §19
+      base_file: §19.txt
+      work_id: WF4013649
+    44317d79c15440e9af58f059416f3836:
+      title: §20
+      base_file: §20.txt
+      work_id: W083E3A17
+    27eaf75698ad440e8870b93c44faa47c:
+      title: §21
+      base_file: §21.txt
+      work_id: W68528362
+    ef91a2d6423249d39d2f4864696c892d:
+      title: §22
+      base_file: §22.txt
+      work_id: WFFF7C249
+    18196f11b59643a1a46b8a198e1e883e:
+      title: §23
+      base_file: §23.txt
+      work_id: WB38B6517
+    7a2ddc92d7434961842a67e2554c2b49:
+      title: §5
+      base_file: §5.txt
+      work_id: W442D1043
+    ae585fea98dc4ce9907453676167efbd:
+      title: §6
+      base_file: §6.txt
+      work_id: W33CC055C
+    cf3e1f930fbd4202955a11fecc7dcca5:
+      title: §7
+      base_file: §7.txt
+      work_id: W4E434953
+    020e038cd6ab4f2f9092f70b3adefa3c:
+      title: §8
+      base_file: §8.txt
+      work_id: WC8F1F857
+    c2aa7a20da06411aba94927714231d9d:
+      title: §9
+      base_file: §9.txt
+      work_id: W1AA4004F
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:16:05.445488'
+last_modified_at: '2022-03-01T21:16:05.445496'
